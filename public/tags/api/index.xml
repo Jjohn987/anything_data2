@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Api on Anything Data</title>
+    <link>/tags/api/</link>
+    <description>Recent content in Api on Anything Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ctextclassics, my First Package</title>
+      <link>/post/ctextclassics-my-first-package/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ctextclassics-my-first-package/</guid>
+      <description>My latest update is a milestone! I have authored my first ever R package which is an API caller for ctext.org. Ctext hosts numerous pre-modern Chinese texts and my package makes them available to you. The scope is broad, but think philosophical works in Confucianism, Daoism, Legalism, military doctrines, history compilations, works in medicine, and many more.
+The three main functions of ctextclassics are get_chapter(&amp;quot;book&amp;quot;, &amp;quot;chapter&amp;quot;) ,get_chapters(&amp;quot;book&amp;quot;, chapters), get_books(&amp;quot;book&amp;quot;) and the internal dataframe book_list which shows the available texts.</description>
+    </item>
+    
+  </channel>
+</rss>

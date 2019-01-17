@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Analysis on Anything Data</title>
+    <link>/categories/text-analysis/</link>
+    <description>Recent content in Text Analysis on Anything Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Part II: Chinese Classics&#39; Word/Network Plots</title>
+      <link>/post/part-ii-chinese-classics-word-network-plots/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/part-ii-chinese-classics-word-network-plots/</guid>
+      <description>This is a continuation in my series of exploratory text analysis of 3 Chinese classic works. In the previous post, I calculated word counts for each book, and visualized common words using bar charts. This time, I’d like to examine word use across the texts with network visualization. The goal is to help see what’s common and what’s different between the texts regarding word usage.
+Network visualization is particularly helpful for discovering simularities and differences between objects - this is because nodes and edges can form connections and clusters (or stay isolated).</description>
+    </item>
+    
+    <item>
+      <title>Plotting Word Bigrams with 3 Chinese Classics</title>
+      <link>/post/plotting-word-bigrams-with-3-chinese-classics/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/plotting-word-bigrams-with-3-chinese-classics/</guid>
+      <description>In the last post, we saw frequencies of the most common words in the Analects, Zhuangzi, and Mozi texts. The faceted plot did an excellent job of capturing a generic “theme” of each text. However, I wondered how the results might change when plotting bigrams (2 word combinations of adjacent words) as opposed to single values.
+This is where I ran into a problem with Tidytext – although it worked fine for tokenizing Chinese text into single character tokens, it did not perform as well at separating the text into bigrams.</description>
+    </item>
+    
+    <item>
+      <title>A Tidytext Analysis of 3 Chinese Classics</title>
+      <link>/post/a-quasi-tidytext-analysis-of-3-chinese-classics/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-quasi-tidytext-analysis-of-3-chinese-classics/</guid>
+      <description>For a long time I’ve admired the tidytext package and its wonderful companion book Text Mining with R. After reading it I thought, “Why not undertake a project of Chinese text analysis?” I am deeply interested in Chinese philosophy but I decided to keep the analysis narrow by selecting just three works - The Analects, Zhuangzi, and the Mozi.
+Following similar pace with Tidytext, I first download my data. Here I use my package ctextclassics and specifically, the function get_books(c(.</description>
+    </item>
+    
+    <item>
+      <title>Ctextclassics, my First Package</title>
+      <link>/post/ctextclassics-my-first-package/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ctextclassics-my-first-package/</guid>
+      <description>My latest update is a milestone! I have authored my first ever R package which is an API caller for ctext.org. Ctext hosts numerous pre-modern Chinese texts and my package makes them available to you. The scope is broad, but think philosophical works in Confucianism, Daoism, Legalism, military doctrines, history compilations, works in medicine, and many more.
+The three main functions of ctextclassics are get_chapter(&amp;quot;book&amp;quot;, &amp;quot;chapter&amp;quot;) ,get_chapters(&amp;quot;book&amp;quot;, chapters), get_books(&amp;quot;book&amp;quot;) and the internal dataframe book_list which shows the available texts.</description>
+    </item>
+    
+    <item>
+      <title>Scraping for a Booklist of the Chinese Classics</title>
+      <link>/post/scraping-for-a-booklist-of-the-chinese-classics/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scraping-for-a-booklist-of-the-chinese-classics/</guid>
+      <description>Last week I was considering a project that would be interesting and unique. I decided I would like to do a text analysis on classical Chinese texts, but wasn’t sure what kind of analysis regarding which texts. I decided to keep it small - and use five of the “core” Chinese classics - The Analects, The Mengzi, Dao De Jing, Zhuangzi, and Mozi. While there are many books in Confucianism, Daoism, and Moism, these texts are often used as the most representative examples of each “genre”.</description>
+    </item>
+    
+  </channel>
+</rss>

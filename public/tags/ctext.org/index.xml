@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ctext.org on Anything Data</title>
+    <link>/tags/ctext.org/</link>
+    <description>Recent content in Ctext.org on Anything Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ctext.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scraping for a Booklist of the Chinese Classics</title>
+      <link>/post/scraping-for-a-booklist-of-the-chinese-classics/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scraping-for-a-booklist-of-the-chinese-classics/</guid>
+      <description>Last week I was considering a project that would be interesting and unique. I decided I would like to do a text analysis on classical Chinese texts, but wasn’t sure what kind of analysis regarding which texts. I decided to keep it small - and use five of the “core” Chinese classics - The Analects, The Mengzi, Dao De Jing, Zhuangzi, and Mozi. While there are many books in Confucianism, Daoism, and Moism, these texts are often used as the most representative examples of each “genre”.</description>
+    </item>
+    
+  </channel>
+</rss>

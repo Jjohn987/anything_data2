@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Analysis on Anything Data</title>
+    <link>/categories/network-analysis/</link>
+    <description>Recent content in Network Analysis on Anything Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Part II: Chinese Classics&#39; Word/Network Plots</title>
+      <link>/post/part-ii-chinese-classics-word-network-plots/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/part-ii-chinese-classics-word-network-plots/</guid>
+      <description>This is a continuation in my series of exploratory text analysis of 3 Chinese classic works. In the previous post, I calculated word counts for each book, and visualized common words using bar charts. This time, I’d like to examine word use across the texts with network visualization. The goal is to help see what’s common and what’s different between the texts regarding word usage.
+Network visualization is particularly helpful for discovering simularities and differences between objects - this is because nodes and edges can form connections and clusters (or stay isolated).</description>
+    </item>
+    
+    <item>
+      <title>Visualizing European WW1 Defense Treaties with iGraph</title>
+      <link>/post/visualizing-european-ww1-defense-treaties-with-igraph/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualizing-european-ww1-defense-treaties-with-igraph/</guid>
+      <description>I suddenly got bit by a bug to learn about network analysis. So I recalled the Correlates of War Project having a dataset about alliances. I decided to revisit them and download the data for this new project, which you can do too.
+To start small, I decided to visualize a certain topic, e.g., European Defense Treaties relating to World War I. For that purpose I filtered the dataset for treaties that occured between 1878 and 1914.</description>
+    </item>
+    
+  </channel>
+</rss>
